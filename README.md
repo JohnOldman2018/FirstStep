@@ -1,2 +1,2 @@
 # FirstStep
-introductory effort
+introductory attempt
